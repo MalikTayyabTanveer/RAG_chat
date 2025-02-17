@@ -63,6 +63,6 @@ Type `exit` or `end` to quit the interactive session.
 ## Contact
 
 For inquiries, feel free to reach out:
-- LinkedIn: [Your Name](https://www.linkedin.com/in/tayyab-tanveer-b000282b3/)
+- LinkedIn: [Tayyab Tanveer](https://www.linkedin.com/in/tayyab-tanveer-b000282b3/)
 - Email: adamjosaph@gmail.com
 
